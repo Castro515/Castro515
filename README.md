@@ -1,11 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Readme</title>
-</head>
-<body>
+
   <h1>Hi, there</h1>
   <h3>I am Senior FrontEnd Web Developer, Diego Castro from Mexico.</h3>
   <br>
@@ -34,5 +27,3 @@ Let's connect and explore how my skills can contribute to the success of your pr
 
 Best regards!
   </div>
-</body>
-</html>
